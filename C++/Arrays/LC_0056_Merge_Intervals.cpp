@@ -1,30 +1,29 @@
 /*
 =========================================================
-LeetCode 0169 - Majority Element
+LeetCode 0056 - Merge Intervals
 
 Pattern:
-Moore's Voting Algorithm
+Sorting + Greedy
 
 Difficulty:
-Easy
+Medium
 
 Approach:
-Maintain a candidate and a counter. Increase the counter
-when the current element matches the candidate and
-decrease it otherwise. The remaining candidate is the
-majority element.
+Sort intervals based on their starting points. Merge
+overlapping intervals by maintaining the current merged
+interval and updating its ending boundary whenever an
+overlap is found.
 
 Time Complexity:
-O(n)
+O(n log n)
 
 Space Complexity:
-O(1)
+O(n)
 
 Author:
 Niranjan Murthy H M
 
 =========================================================
 */
-
 #include <bits/stdc++.h>
 using namespace std;

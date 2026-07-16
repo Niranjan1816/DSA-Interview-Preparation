@@ -1,42 +1,17 @@
 # DSA Interview Preparation 🚀
 
-Welcome to my Data Structures and Algorithms repository.
+A structured collection of my Data Structures and Algorithms solutions implemented in **C++** and **Java**.
 
-This repository contains my solutions to frequently asked interview problems from platforms like LeetCode and GeeksforGeeks. My goal is to master problem-solving patterns, improve coding skills, and prepare for technical interviews.
-
----
-
-## Languages
-
-- C++
-- Java *(In Progress)*
+The goal of this repository is to strengthen problem-solving skills, master common interview patterns, and prepare for Software Development Engineer interviews.
 
 ---
 
-## Topics
+## 👨‍💻 About Me
 
-| Topic | Status | Progress |
-|--------|--------|---------:|
-| Arrays | 🟡 In Progress | 10/15 |
-| Binary Search | ⬜ Not Started | 0/12 |
-| Bit Manipulation | ⬜ Not Started | 0/4 |
-
----
-
-## Array Problems Solved
-
-| LeetCode | Problem | Pattern |
-|----------:|---------|---------|
-| 1 | Two Sum | HashMap |
-| 53 | Maximum Subarray | Kadane's Algorithm |
-| 56 | Merge Intervals | Sorting + Greedy |
-| 57 | Insert Interval | Interval Merging |
-| 75 | Sort Colors | Dutch National Flag |
-| 121 | Best Time to Buy and Sell Stock | Greedy |
-| 122 | Best Time to Buy and Sell Stock II | Greedy |
-| 169 | Majority Element | Moore Voting |
-| 217 | Contains Duplicate | HashSet |
-| 238 | Product of Array Except Self | Prefix & Suffix |
+- 🎓 Final Year B.Tech (ECE) Student, PES University
+- 💼 Embedded Software Intern @ Thales India (Completed)
+- 💻 Solved 300+ DSA problems across LeetCode, GeeksforGeeks and Code360
+- 🌱 Currently preparing for Full-Time Software Engineering Roles
 
 ---
 
@@ -46,19 +21,52 @@ This repository contains my solutions to frequently asked interview problems fro
 DSA-Interview-Preparation
 │
 ├── C++
+│   ├── Arrays
+│   ├── Binary Search
+│   └── Bit Manipulation
+│
 ├── Java
+│
 └── Resources
 ```
 
 ---
 
-## Goal
+## 📚 Progress Tracker
 
-- Learn DSA patterns instead of memorizing solutions.
-- Solve interview-focused problems.
-- Implement solutions in both C++ and Java.
-- Build a structured GitHub repository for interview preparation.
+| Topic | Status | Progress |
+|--------|--------|---------:|
+| Arrays | 🟡 In Progress | 10 / 15 |
+| Binary Search | ⬜ Not Started | 0 / 12 |
+| Bit Manipulation | ⬜ Not Started | 0 / 4 |
 
 ---
 
-⭐ This repository is continuously updated as I progress through my DSA journey.
+## 📌 Current Focus
+
+- Complete Array Pattern
+- Build GitHub Repository
+- Re-implement every problem in Java
+- Continue with Binary Search
+
+---
+
+## 🎯 Goals
+
+- Master DSA interview patterns
+- Write clean and optimized solutions
+- Learn multiple approaches for each problem
+- Build a structured GitHub portfolio
+- Crack Software Engineering interviews
+
+---
+
+## Platforms
+
+- LeetCode
+- GeeksforGeeks
+- Code360
+
+---
+
+⭐ This repository is continuously updated as I progress through my interview preparation.
