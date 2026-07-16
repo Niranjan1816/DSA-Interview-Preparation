@@ -27,3 +27,35 @@ Niranjan Murthy H M
 
 #include <bits/stdc++.h>
 using namespace std;
+
+class Solution {
+public:
+    int maxSubArray(vector<int>& nums) {
+
+        int n = nums.size();
+
+        int maxi = INT_MIN ;
+        int currentsum = 0 ;
+
+        for(int i = 0 ; i < n ; i++){
+
+            currentsum = currentsum + nums[i]; // it may go below 0
+
+            maxi = max (currentsum , maxi); // keep track of max sum seen so far .
+
+            // if sum goes below 0 , reset it to 0 
+            // cause -ve sum will reduce the sum , not increases
+            // this is kandanes algo
+
+            if(currentsum < 0){
+                currentsum = 0 ;
+            }
+
+        }
+
+
+        return maxi ;
+
+        
+    }
+};
