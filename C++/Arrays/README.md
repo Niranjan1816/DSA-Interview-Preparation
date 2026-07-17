@@ -17,6 +17,7 @@ Arrays are one of the most fundamental data structures in programming and are fr
 - Dutch National Flag Algorithm
 - Observation
 - Custom Sorting
+- Two Pointers
 
 ---
 
@@ -25,6 +26,7 @@ Arrays are one of the most fundamental data structures in programming and are fr
 | # | Problem | Pattern | Difficulty |
 |---|---------|---------|------------|
 | 1 | Two Sum | HashMap | Easy |
+| 11 | Container With Most Water | Two Pointers | Medium |
 | 31 | Next Permutation | Observation | Medium |
 | 53 | Maximum Subarray | Kadane's Algorithm | Medium |
 | 56 | Merge Intervals | Sorting + Greedy | Medium |
@@ -48,6 +50,7 @@ Arrays are one of the most fundamental data structures in programming and are fr
 - Moore's Voting Algorithm identifies the majority element using constant space.
 - Sorting simplifies interval-related problems significantly.
 - Three-pointer partitioning is the core idea behind the Dutch National Flag algorithm.
+- Two pointers can reduce a quadratic-time solution to linear time by eliminating impossible candidates based on problem-specific observations.
 - Careful observation can reduce seemingly complex problems to simple in-place operations.
 - Custom comparators allow sorting based on problem-specific conditions.
 
@@ -59,6 +62,7 @@ Arrays are one of the most fundamental data structures in programming and are fr
 - Incorrectly updating pointers in the Dutch National Flag algorithm.
 - Not initializing prefix arrays before accessing indices.
 - Mishandling edge cases while finding the next permutation.
+- Moving the taller pointer instead of the shorter one in the Two Pointers approach for maximizing container area.
 - Ignoring the case where the final answer becomes `"0"` in Largest Number.
 
 ---
@@ -75,6 +79,7 @@ Arrays are one of the most fundamental data structures in programming and are fr
 | Interval Merging | O(n log n) | O(n) |
 | Dutch National Flag | O(n) | O(1) |
 | Observation | O(n) | O(1) |
+| Two Pointers | O(n) | O(1) |
 | Custom Sorting | O(n log n) | O(n) |
 
 > *Excluding the output array where applicable.
