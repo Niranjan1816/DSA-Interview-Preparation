@@ -1,21 +1,25 @@
 # DSA Interview Preparation 🚀
 
-A structured collection of my Data Structures and Algorithms solutions implemented in **C++** and **Java**.
+![Language](https://img.shields.io/badge/Language-C%2B%2B%20%7C%20Java-blue)
+![Status](https://img.shields.io/badge/Status-Active-success)
+![License](https://img.shields.io/badge/DSA-Interview%20Preparation-orange)
 
-The goal of this repository is to strengthen problem-solving skills, master common interview patterns, and prepare for Software Development Engineer interviews.
+A structured collection of my **Data Structures and Algorithms** solutions implemented in **C++** and **Java**.
+
+This repository focuses on mastering interview patterns, writing clean and optimized solutions, and preparing for **Software Engineering interviews**.
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Final Year B.Tech (ECE) Student, PES University
+- 🎓 Final Year B.Tech Student (Electronics & Communication Engineering), PES University
 - 💼 Embedded Software Intern @ Thales India (Completed)
-- 💻 Solved 300+ DSA problems across LeetCode, GeeksforGeeks and Code360
-- 🌱 Currently preparing for Full-Time Software Engineering Roles
+- 💻 Solved **300+** DSA problems across LeetCode, GeeksforGeeks, and Code360
+- 🌱 Currently preparing for Full-Time Software Engineering roles
 
 ---
 
-## Repository Structure
+# 📂 Repository Structure
 
 ```
 DSA-Interview-Preparation
@@ -32,41 +36,63 @@ DSA-Interview-Preparation
 
 ---
 
-## 📚 Progress Tracker
+# 📚 Progress Tracker
 
 | Topic | Status | Progress |
 |--------|--------|---------:|
-| Arrays | 🟡 In Progress | 10 / 15 |
-| Binary Search | ⬜ Not Started | 0 / 12 |
+| Arrays | ✅ Completed | 15 / 15 |
+| Binary Search | 🟡 In Progress | 0 / 12 |
 | Bit Manipulation | ⬜ Not Started | 0 / 4 |
 
 ---
 
-## 📌 Current Focus
+# 📌 Current Focus
 
-- Complete Array Pattern
-- Build GitHub Repository
+- Complete Binary Search pattern
 - Re-implement every problem in Java
-- Continue with Binary Search
+- Expand GitHub repository with detailed explanations
+- Continue solving interview-standard problems consistently
 
 ---
 
-## 🎯 Goals
+# 🎯 Repository Highlights
 
-- Master DSA interview patterns
-- Write clean and optimized solutions
-- Learn multiple approaches for each problem
+- Multiple approaches for every problem whenever applicable
+- Time and Space Complexity analysis
+- Interview patterns categorized by topic
+- Optimized and clean C++ implementations
+- Java implementations for revision
+- Detailed README for every topic
+
+---
+
+# 🎯 Goals
+
+- Master common DSA interview patterns
+- Write optimized and readable code
+- Learn multiple approaches to every problem
 - Build a structured GitHub portfolio
-- Crack Software Engineering interviews
+- Prepare for Software Engineering interviews
 
 ---
 
-## Platforms
+# 🌐 Practice Platforms
 
-- LeetCode
-- GeeksforGeeks
-- Code360
+- 🔹 LeetCode
+- 🔹 GeeksforGeeks
+- 🔹 Code360
 
 ---
 
-⭐ This repository is continuously updated as I progress through my interview preparation.
+# 📈 Repository Status
+
+This repository is continuously updated as I progress through my interview preparation. Every solution is written with a focus on:
+
+- Correctness
+- Readability
+- Time & Space Optimization
+- Interview-oriented problem-solving
+
+---
+
+⭐ If you find this repository useful, feel free to star it.
